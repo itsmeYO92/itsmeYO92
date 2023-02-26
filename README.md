@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @itsmeYO92
-- 👀 I’m interested in ethical hacking and bug bounty
-- 🌱 I’m currently learning python
+Ayoub ABOUTARBOUCH,
+
+- Smart & green building engineer,
+- ALX Software engineer bootcamp student,
+
 
 
 <!---
